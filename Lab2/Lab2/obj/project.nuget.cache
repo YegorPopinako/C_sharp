@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8wLM2rOYoiP4PMcmJyl0rjZTakM2oSPaFIPiO7497oSYGpIINt+fje3uWhnnNAfDlWOFB9pVZTRe6HCEUHvAjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yegor\\source\\repos\\Lab2\\Lab2\\Lab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yegor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
