@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yegor\\source\\repos\\prj\\prj\\prj.csproj": {}
+    "C:\\Users\\Yegor\\source\\repos\\Lab1\\prj\\prj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yegor\\source\\repos\\prj\\prj\\prj.csproj": {
+    "C:\\Users\\Yegor\\source\\repos\\Lab1\\prj\\prj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yegor\\source\\repos\\prj\\prj\\prj.csproj",
+        "projectUniqueName": "C:\\Users\\Yegor\\source\\repos\\Lab1\\prj\\prj.csproj",
         "projectName": "prj",
-        "projectPath": "C:\\Users\\Yegor\\source\\repos\\prj\\prj\\prj.csproj",
+        "projectPath": "C:\\Users\\Yegor\\source\\repos\\Lab1\\prj\\prj.csproj",
         "packagesPath": "C:\\Users\\Yegor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yegor\\source\\repos\\prj\\prj\\obj\\",
+        "outputPath": "C:\\Users\\Yegor\\source\\repos\\Lab1\\prj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yegor\\AppData\\Roaming\\NuGet\\NuGet.Config",

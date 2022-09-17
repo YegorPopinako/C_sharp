@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zpUFmCmiBo81Zb4CnJQtENgeyz47Y6V1ZBeKNxG4yE4Y9a2CkDW9Uop2ydVhXQlnFv5nVCTFD2wbO70cVQfmXw==",
+  "dgSpecHash": "vTmGmxj97mYk44DScpTrYFX/+xjuVIe99oUlzUJmtwzHJzWkxS4XBTS4Vd7HwgWXzjgOldfqYsAOdC7f85YEbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yegor\\source\\repos\\prj\\prj\\prj.csproj",
+  "projectFilePath": "C:\\Users\\Yegor\\source\\repos\\Lab1\\prj\\prj.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yegor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],
