@@ -15,11 +15,11 @@ namespace Home
 
             if (FirstNum == SecondNum || FirstNum == ThirdNum || SecondNum == ThirdNum)
             { 
-                Console.WriteLine("you entered same numbers");
+                Console.WriteLine("True");
             }
             else
             {
-                Console.WriteLine("no same numbers found");
+                Console.WriteLine("False");
             }
         }
     }
